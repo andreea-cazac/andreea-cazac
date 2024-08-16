@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @andreea-cazac
-- 👀 I’m interested in making people lives better by coding
-- 🌱 I’m currently learning in my 4th year as a Software Engineer
-- 💞️ I’m looking to collaborate on wonderful projects with pro-active people
-- 📫 How to reach me: https://www.linkedin.com/in/andreea-cazac/
-- ⚡ Fun fact: The Giant Pacific Octopus has 3 hearts, 9 brains and blue blood
+👋 Hi, I’m @andreea-cazac and I am
+  
+Proficient in: Java
+Familiar with: Git, Gitlab, Github, Node.js, SpringBoot, JavaScript, CSS, HTML, Svelte, Vue.js, PostgreSQL, JUnit, Mockito, C++
+Worked with: Docker, AWS, Flyway, H2 Database, Swagger, Client/Server applications, Arduino, three.js
 
 <!---
 andreea-cazac/andreea-cazac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
